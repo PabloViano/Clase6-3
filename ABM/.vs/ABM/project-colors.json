@@ -20,7 +20,12 @@
       "ProjectGuid": "9417d44c-8e48-4034-9911-39e357d60ba9",
       "DisplayName": "Persistencia",
       "ColorIndex": 3
+    },
+    "7bae4a8f-f0f8-4fdf-ae0d-ba67945d3d02": {
+      "ProjectGuid": "7bae4a8f-f0f8-4fdf-ae0d-ba67945d3d02",
+      "DisplayName": "ArgumentosEventos",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }

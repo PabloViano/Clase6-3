@@ -7,7 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ArgumentosEventos\ArgumentosEventos.csproj" />
     <ProjectReference Include="..\Entidades\Entidades.csproj" />
+    <ProjectReference Include="..\Persistencia\Persistencia.csproj" />
   </ItemGroup>
 
 </Project>

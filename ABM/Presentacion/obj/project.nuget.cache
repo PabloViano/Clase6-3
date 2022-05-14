@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QgiKjvz9G9b3Rl7idDa63es8DaOLA3ujwGO4528sKmZe7l9FN3U/Es3elYD8my5iNmMO/BFMkHehhLllOowr9A==",
+  "dgSpecHash": "J/EwaynOeiL/udYngG5xBLXW9O9Aa+CzVEpYORFZ8Efrlr4TIWY6GYkdqyFvWXYpr5A7N8Ajbs/vBzNC6cNPLA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\UCSE\\OneDrive - Universidad Católica de Santiago del Estero\\Documentos\\Prog\\Delegados_Eventos\\Clase6-Ej4\\ABM\\Presentacion\\Presentacion.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\UCSE\\OneDrive - Universidad Católica de Santiago del Estero\\Documentos\\Prog\\Delegados_Eventos\\Clase6-3\\ABM\\Presentacion\\Presentacion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\UCSE\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
