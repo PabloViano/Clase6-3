@@ -1,0 +1,15 @@
+C:\Users\UCSE\OneDrive - Universidad Católica de Santiago del Estero\Documentos\Prog\Delegados_Eventos\Clase6-3\ABM\ArgumentosEventos\bin\Debug\net6.0\ArgumentosEventos.deps.json
+C:\Users\UCSE\OneDrive - Universidad Católica de Santiago del Estero\Documentos\Prog\Delegados_Eventos\Clase6-3\ABM\ArgumentosEventos\bin\Debug\net6.0\ArgumentosEventos.dll
+C:\Users\UCSE\OneDrive - Universidad Católica de Santiago del Estero\Documentos\Prog\Delegados_Eventos\Clase6-3\ABM\ArgumentosEventos\bin\Debug\net6.0\ref\ArgumentosEventos.dll
+C:\Users\UCSE\OneDrive - Universidad Católica de Santiago del Estero\Documentos\Prog\Delegados_Eventos\Clase6-3\ABM\ArgumentosEventos\bin\Debug\net6.0\ArgumentosEventos.pdb
+C:\Users\UCSE\OneDrive - Universidad Católica de Santiago del Estero\Documentos\Prog\Delegados_Eventos\Clase6-3\ABM\ArgumentosEventos\bin\Debug\net6.0\Entidades.dll
+C:\Users\UCSE\OneDrive - Universidad Católica de Santiago del Estero\Documentos\Prog\Delegados_Eventos\Clase6-3\ABM\ArgumentosEventos\bin\Debug\net6.0\Entidades.pdb
+C:\Users\UCSE\OneDrive - Universidad Católica de Santiago del Estero\Documentos\Prog\Delegados_Eventos\Clase6-3\ABM\ArgumentosEventos\obj\Debug\net6.0\ArgumentosEventos.csproj.AssemblyReference.cache
+C:\Users\UCSE\OneDrive - Universidad Católica de Santiago del Estero\Documentos\Prog\Delegados_Eventos\Clase6-3\ABM\ArgumentosEventos\obj\Debug\net6.0\ArgumentosEventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UCSE\OneDrive - Universidad Católica de Santiago del Estero\Documentos\Prog\Delegados_Eventos\Clase6-3\ABM\ArgumentosEventos\obj\Debug\net6.0\ArgumentosEventos.AssemblyInfoInputs.cache
+C:\Users\UCSE\OneDrive - Universidad Católica de Santiago del Estero\Documentos\Prog\Delegados_Eventos\Clase6-3\ABM\ArgumentosEventos\obj\Debug\net6.0\ArgumentosEventos.AssemblyInfo.cs
+C:\Users\UCSE\OneDrive - Universidad Católica de Santiago del Estero\Documentos\Prog\Delegados_Eventos\Clase6-3\ABM\ArgumentosEventos\obj\Debug\net6.0\ArgumentosEventos.csproj.CoreCompileInputs.cache
+C:\Users\UCSE\OneDrive - Universidad Católica de Santiago del Estero\Documentos\Prog\Delegados_Eventos\Clase6-3\ABM\ArgumentosEventos\obj\Debug\net6.0\ArgumentosEventos.csproj.CopyComplete
+C:\Users\UCSE\OneDrive - Universidad Católica de Santiago del Estero\Documentos\Prog\Delegados_Eventos\Clase6-3\ABM\ArgumentosEventos\obj\Debug\net6.0\ArgumentosEventos.dll
+C:\Users\UCSE\OneDrive - Universidad Católica de Santiago del Estero\Documentos\Prog\Delegados_Eventos\Clase6-3\ABM\ArgumentosEventos\obj\Debug\net6.0\ref\ArgumentosEventos.dll
+C:\Users\UCSE\OneDrive - Universidad Católica de Santiago del Estero\Documentos\Prog\Delegados_Eventos\Clase6-3\ABM\ArgumentosEventos\obj\Debug\net6.0\ArgumentosEventos.pdb
