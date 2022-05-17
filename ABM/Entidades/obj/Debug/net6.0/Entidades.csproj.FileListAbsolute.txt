@@ -10,3 +10,15 @@ C:\Users\UCSE\OneDrive - Universidad Católica de Santiago del Estero\Documentos
 C:\Users\UCSE\OneDrive - Universidad Católica de Santiago del Estero\Documentos\Prog\Delegados_Eventos\Clase6-3\ABM\Entidades\obj\Debug\net6.0\Entidades.dll
 C:\Users\UCSE\OneDrive - Universidad Católica de Santiago del Estero\Documentos\Prog\Delegados_Eventos\Clase6-3\ABM\Entidades\obj\Debug\net6.0\ref\Entidades.dll
 C:\Users\UCSE\OneDrive - Universidad Católica de Santiago del Estero\Documentos\Prog\Delegados_Eventos\Clase6-3\ABM\Entidades\obj\Debug\net6.0\Entidades.pdb
+A:\User\Pablo\Universidad\Programacion ll\Clase6-3\ABM\Entidades\bin\Debug\net6.0\Entidades.deps.json
+A:\User\Pablo\Universidad\Programacion ll\Clase6-3\ABM\Entidades\bin\Debug\net6.0\Entidades.dll
+A:\User\Pablo\Universidad\Programacion ll\Clase6-3\ABM\Entidades\bin\Debug\net6.0\Entidades.pdb
+A:\User\Pablo\Universidad\Programacion ll\Clase6-3\ABM\Entidades\obj\Debug\net6.0\Entidades.csproj.AssemblyReference.cache
+A:\User\Pablo\Universidad\Programacion ll\Clase6-3\ABM\Entidades\obj\Debug\net6.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+A:\User\Pablo\Universidad\Programacion ll\Clase6-3\ABM\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfoInputs.cache
+A:\User\Pablo\Universidad\Programacion ll\Clase6-3\ABM\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfo.cs
+A:\User\Pablo\Universidad\Programacion ll\Clase6-3\ABM\Entidades\obj\Debug\net6.0\Entidades.csproj.CoreCompileInputs.cache
+A:\User\Pablo\Universidad\Programacion ll\Clase6-3\ABM\Entidades\obj\Debug\net6.0\Entidades.dll
+A:\User\Pablo\Universidad\Programacion ll\Clase6-3\ABM\Entidades\obj\Debug\net6.0\refint\Entidades.dll
+A:\User\Pablo\Universidad\Programacion ll\Clase6-3\ABM\Entidades\obj\Debug\net6.0\Entidades.pdb
+A:\User\Pablo\Universidad\Programacion ll\Clase6-3\ABM\Entidades\obj\Debug\net6.0\ref\Entidades.dll

@@ -7,7 +7,6 @@ namespace ArgumentosEventos
         public class AccionComputadoraEventArgs : EventArgs
         {
             public string Accion { get; set; }
-            public List<Computadora> computadoras{ get; set; }
         }
         public class GuardadoCompletadoEventArgs : EventArgs
         {

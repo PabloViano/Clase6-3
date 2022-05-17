@@ -5,32 +5,41 @@ using Persistencia;
 
 namespace Logica
 {
-    public class Class1
+    public sealed class Class1
     {
         private static Class1? instance = null;
-        List<Computadora> Computadoras = Persistencia.principal.Instance.LeerComputadoras();
+        List<Computadora> Computadoras = Persistencia.principal.Instancia.LeerComputadoras();
         private Class1() { }
         public static Class1 Instance
         {
             get
             {
-                if (instance == null) { instance = new Class1(); } return instance;
+                if (instance == null) { instance = new Class1(); }
+                return instance;
             }
         }
         public EventHandler<ArgumentosEventos.Class1.AccionComputadoraEventArgs> AccionCompletada;
-        
+
         public void Alta(string proce, string placa, decimal ram, decimal disco)
         {
-            Computadora computadora = new Computadora(Computadoras.Count + 1,proce, placa, ram, disco);
+            Computadora computadora = new Computadora(Computadoras.Count + 1, proce, placa, ram, disco);
             Computadoras.Add(computadora);
-            GuardadoEventHandler(this, new ArgumentosEventos.Class1.AccionComputadoraEventArgs() { Accion = "Agregada", computadoras = this.Computadoras });
+            ActualizarListado();
+            if (AccionCompletada != null)
+            {
+                this.AccionCompletada(this, new ArgumentosEventos.Class1.AccionComputadoraEventArgs { Accion = "Alta" });
+            }
         }
         public void Baja(int id)
         {
             Computadoras.Remove(Computadoras.Find(x => x.ID == id));
-            GuardadoEventHandler(this, new ArgumentosEventos.Class1.AccionComputadoraEventArgs() { Accion = "Eliminada", computadoras = this.Computadoras });
+            ActualizarListado();
+            if (AccionCompletada != null)
+            {
+                this.AccionCompletada(this, new ArgumentosEventos.Class1.AccionComputadoraEventArgs { Accion = "Baja" });
+            }
         }
-        public void Modificacion (int id,string proce, string placa, decimal ram, decimal disco)
+        public void Modificacion(int id, string proce, string placa, decimal ram, decimal disco)
         {
             foreach (var item in Computadoras)
             {
@@ -42,11 +51,15 @@ namespace Logica
                     item.PlacadeVideo = placa;
                 }
             }
-            GuardadoEventHandler(this, new ArgumentosEventos.Class1.AccionComputadoraEventArgs() { Accion = "Modificada", computadoras = this.Computadoras });
+            ActualizarListado();
+            if (AccionCompletada != null)
+            {
+                this.AccionCompletada(this, new ArgumentosEventos.Class1.AccionComputadoraEventArgs { Accion = "Modificacion" });
+            }
         }
-        public static void GuardadoEventHandler(object? sender, ArgumentosEventos.Class1.AccionComputadoraEventArgs e)
+        public void ActualizarListado()
         {
-            
+            Persistencia.principal.Instancia.GuardarComputadoras(this.Computadoras);
         }
     }
 }

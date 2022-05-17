@@ -13,3 +13,18 @@ C:\Users\UCSE\OneDrive - Universidad Católica de Santiago del Estero\Documentos
 C:\Users\UCSE\OneDrive - Universidad Católica de Santiago del Estero\Documentos\Prog\Delegados_Eventos\Clase6-3\ABM\ArgumentosEventos\obj\Debug\net6.0\ArgumentosEventos.dll
 C:\Users\UCSE\OneDrive - Universidad Católica de Santiago del Estero\Documentos\Prog\Delegados_Eventos\Clase6-3\ABM\ArgumentosEventos\obj\Debug\net6.0\ref\ArgumentosEventos.dll
 C:\Users\UCSE\OneDrive - Universidad Católica de Santiago del Estero\Documentos\Prog\Delegados_Eventos\Clase6-3\ABM\ArgumentosEventos\obj\Debug\net6.0\ArgumentosEventos.pdb
+A:\User\Pablo\Universidad\Programacion ll\Clase6-3\ABM\ArgumentosEventos\bin\Debug\net6.0\ArgumentosEventos.deps.json
+A:\User\Pablo\Universidad\Programacion ll\Clase6-3\ABM\ArgumentosEventos\bin\Debug\net6.0\ArgumentosEventos.dll
+A:\User\Pablo\Universidad\Programacion ll\Clase6-3\ABM\ArgumentosEventos\bin\Debug\net6.0\ArgumentosEventos.pdb
+A:\User\Pablo\Universidad\Programacion ll\Clase6-3\ABM\ArgumentosEventos\bin\Debug\net6.0\Entidades.dll
+A:\User\Pablo\Universidad\Programacion ll\Clase6-3\ABM\ArgumentosEventos\bin\Debug\net6.0\Entidades.pdb
+A:\User\Pablo\Universidad\Programacion ll\Clase6-3\ABM\ArgumentosEventos\obj\Debug\net6.0\ArgumentosEventos.csproj.AssemblyReference.cache
+A:\User\Pablo\Universidad\Programacion ll\Clase6-3\ABM\ArgumentosEventos\obj\Debug\net6.0\ArgumentosEventos.GeneratedMSBuildEditorConfig.editorconfig
+A:\User\Pablo\Universidad\Programacion ll\Clase6-3\ABM\ArgumentosEventos\obj\Debug\net6.0\ArgumentosEventos.AssemblyInfoInputs.cache
+A:\User\Pablo\Universidad\Programacion ll\Clase6-3\ABM\ArgumentosEventos\obj\Debug\net6.0\ArgumentosEventos.AssemblyInfo.cs
+A:\User\Pablo\Universidad\Programacion ll\Clase6-3\ABM\ArgumentosEventos\obj\Debug\net6.0\ArgumentosEventos.csproj.CoreCompileInputs.cache
+A:\User\Pablo\Universidad\Programacion ll\Clase6-3\ABM\ArgumentosEventos\obj\Debug\net6.0\ArgumentosEventos.csproj.CopyComplete
+A:\User\Pablo\Universidad\Programacion ll\Clase6-3\ABM\ArgumentosEventos\obj\Debug\net6.0\ArgumentosEventos.dll
+A:\User\Pablo\Universidad\Programacion ll\Clase6-3\ABM\ArgumentosEventos\obj\Debug\net6.0\refint\ArgumentosEventos.dll
+A:\User\Pablo\Universidad\Programacion ll\Clase6-3\ABM\ArgumentosEventos\obj\Debug\net6.0\ArgumentosEventos.pdb
+A:\User\Pablo\Universidad\Programacion ll\Clase6-3\ABM\ArgumentosEventos\obj\Debug\net6.0\ref\ArgumentosEventos.dll

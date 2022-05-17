@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "D9+vZdrjgl8bieCbLNE1OVc3JC792mMSFCwR50OHdYzF9+1cr5ieh545E7Lr6uXb/NgNb2y3EDTK4mI5cDDNXw==",
+  "dgSpecHash": "WHVsCppgdT+GDmKGrG+G/ky2mwamm9XpVLpsI+rKykVeKo07u253SWyM7tbgDhSPBpbM8+D6DI3zbMfp+0I0hg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\UCSE\\OneDrive - Universidad Católica de Santiago del Estero\\Documentos\\Prog\\Delegados_Eventos\\Clase6-3\\ABM\\Persistencia\\Persistencia.csproj",
+  "projectFilePath": "A:\\User\\Pablo\\Universidad\\Programacion ll\\Clase6-3\\ABM\\Persistencia\\Persistencia.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\UCSE\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\pablo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }

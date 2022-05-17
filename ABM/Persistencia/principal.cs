@@ -4,21 +4,21 @@ using Newtonsoft.Json;
 
 namespace Persistencia
 {
-    public class principal
+    public sealed class principal
     {
-        private static principal? instance = null;
+        private static principal? instancia = null;
         private principal() { }
         public EventHandler<ArgumentosEventos.Class1.GuardadoCompletadoEventArgs> GuardadoCompleto;
-        public static principal Instance
+        public static principal Instancia
         {
             get
             {
-                if (instance == null) { instance = new principal(); }
-                return instance;
+                if (instancia == null) { instancia = new principal(); }
+                return instancia;
             }
         }
 
-        const string path = @"C:\Users\UCSE\OneDrive - Universidad Católica de Santiago del Estero\Documentos\Prog\Delegados_Eventos\Clase6-3\ABM\Computadoras.txt";
+        const string path = @"A:\User\Pablo\Universidad\Programacion ll\Clase6-3\ABM\Computadoras.txt";
         List<Computadora> computadoras = new List<Computadora>();
         public List<Computadora> LeerComputadoras()
         {
@@ -56,6 +56,10 @@ namespace Persistencia
                 {
                     string ComputadorasjSON = JsonConvert.SerializeObject(Computadoras);
                     writer.Write(ComputadorasjSON);
+                    if (GuardadoCompleto != null)
+                    {
+                        this.GuardadoCompleto(this, new ArgumentosEventos.Class1.GuardadoCompletadoEventArgs() { Completo = true });
+                    }
                 }
             }
         }

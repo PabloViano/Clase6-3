@@ -1,0 +1,1 @@
+[{"ID":1,"Procesador":"INTEL","PlacadeVideo":"AMD","TamañoMemoriaRAM":2999.0,"TamañoDiscoDuro":49999.0},{"ID":2,"Procesador":"AMD","PlacadeVideo":"AMD","TamañoMemoriaRAM":7999.0,"TamañoDiscoDuro":599999.0}]
